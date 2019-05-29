@@ -1,0 +1,108 @@
+#password{
+   
+    width: 275px;
+    height: 47px;
+    border-radius: 10px;
+    border: solid 1px #cacaca;
+    margin-top: 7%;
+      
+}
+#email{
+   
+    width: 275px;
+    height: 47px;
+    border-radius: 10px;
+    border: solid 1px #cacaca;
+    margin-top: 7%;
+      
+}
+#bottoncode{
+    margin-top: 11%;
+    width: 138px;
+    height: 40px;
+    border-radius: 30px;
+    padding: 8px;
+    margin-left: 69px;
+    border: solid 1px #e6e6e6;
+    color: rgb(83, 147, 243);
+    cursor: pointer;
+}
+.image-code{
+    right: 117px;
+    position: relative;
+    width: 19%;
+    bottom: 71px;
+}
+.title-code{
+    right: 53px;
+    position: relative;
+    top: 62px;
+}
+.content-code{
+    width: 20%;
+    margin: auto;
+}
+.texcodet{
+    position: relative;
+    top: 91px;
+    color: #b9b9b9;
+    font-size: 15px;
+}
+#code{
+   
+    width: 275px;
+    height: 47px;
+    border-radius: 10px;
+    border: solid 1px #cacaca;
+    margin-top: 7%;
+      
+}
+#content{
+    margin-left: 40%;
+  
+}
+.title{
+    right: 115px;
+    position: relative;
+    top: 62px;
+
+}
+#button{
+    width: 27%;
+    border-radius: 12px;
+    position: relative;
+    top: 10px;
+}
+.image{
+    width: 50px;
+    position: relative;
+    right: 197px;
+}
+.content-img{
+    width: 30%;
+    height: 41px;
+    border-radius: 25px;
+    border: solid 1px rgb(187, 186, 186);
+    position: relative;
+    top: 74px;
+    left: 67px;
+    padding: 4px;
+}
+.text{
+    top: 73px;
+    position: relative;
+    font-size: 15px;
+    right: 48px;
+    color: #b9b9b9;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+
+}
+.loginaExito{
+    margin-top: 74px;
+    font-size: 20px;
+
+}
+.contnet-main{
+    margin: auto
+}
